@@ -11,7 +11,7 @@ It enables users to explore:
 ---
 
 ## 🖼 Dashboard Preview
-![Dashboard Preview](images/dashboard_image.png)
+![Dashboard Preview](dashboard_image.png)
 
 ---
 
