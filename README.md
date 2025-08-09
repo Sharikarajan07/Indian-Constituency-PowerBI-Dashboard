@@ -17,7 +17,8 @@ It enables users to explore:
 
 ## 📂 Files in this Repository
 - **`states.pbix`** – The Power BI project file (editable in Power BI Desktop)
-- **`images/states-dashboard.png`** – Dashboard screenshot for quick preview
+- **`dashboard_image.png`** – Dashboard screenshot for quick preview
+- **`State Wise Constituency Seats.xlsx`** - Excel dataset used to build the dashboard
 
 ---
 
