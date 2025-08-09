@@ -1,7 +1,7 @@
 # State-wise Constituency Seats in India – Basic Power BI Dashboard
 
 ## 📌 Overview
-This repository contains an **interactive Power BI dashboard** showcasing **state-wise constituency seats** across India.  
+This repository contains an **Simple Interactive Power BI Dashboard** showcasing **State-wise Constituency Seats** across India.  
 It enables users to explore:
 - Distribution of constituencies by **State / UT**
 - Party-wise seat distribution
